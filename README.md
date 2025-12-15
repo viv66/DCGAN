@@ -24,7 +24,7 @@ The fake images aan real images are fed into the discriminator and the discrimin
 The score indicates a feedback to the generator, with this feedback, the generator starts changing its weights and learning how to generate real-alike images.
 The whole process can be found in the figure below[[2]](https://pathmind.com/wiki/generative-adversarial-network-gan).   
 
-![](/images/GAN.png)
+![](GAN.png)
 
 - Generator structure:
 3 convolutional layers
