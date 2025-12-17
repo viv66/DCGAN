@@ -1,5 +1,5 @@
 # DCGAN
-Implement Deep Convolutional Generative Adversarial Networks (DCGAN) to generate natural images from CIFAR10. 
+Implement a Deep Convolutional Generative Adversarial Network (DCGAN) to generate natural images from CIFAR10. 
 
 ## Description:
 Implement a specific type of Generative Adversarial Network or GAN designed to process images, called a Deep Convolutional GAN (DCGAN). The DCGAN will be trained to generate natural images from CIFAR10.
