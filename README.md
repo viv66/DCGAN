@@ -33,7 +33,7 @@ The whole process can be found in the figure below[[2]](https://pathmind.com/wik
 
 ## Classifier CNN architecture:
 Here we compare two classifiers c and c’:
-- Classifier c: The dataset used to train the classifier c is from cifar10.
+- Classifier c: The dataset used to train the classifier c is from CIFAR10.
 The architecture contains 4 convolutional layers and with kernel size 3x3.
 2x2 pooling layer is added after every two convolutional layers(con-con-pool scheme)
 LeakyRelu activation is added after all the convolutional and dense layers.
